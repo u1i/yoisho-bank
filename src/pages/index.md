@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Yoisho Banking Corporation
+image: /img/japan-4141578_1280.jpg
+heading: Yoisho Banking Corporation
+subheading: Consumer Banking the way it should be!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: ようこそ!
+  description: Yoisho is not just a bank. It's your trusted partner for everyone
+    who believes that a financial institution shouldn't just be solid, it should
+    continuously thrive to deliver the best customer experience, too. We keep
+    reinventing ourselves as we look to achieve this and deserve your trust –
+    every day.
+description: Customers that become partners
 intro:
   blurbs:
     - image: /img/coffee.png
